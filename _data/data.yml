@@ -59,7 +59,7 @@ publications:
     intro: |
       Check Maria's Activity here!
     papers:
-      - title: To My Mom
+        title: To My Mom
         link: "#"
         authors: Maria Gunning
         conference: I learned a lot from my mom. 
