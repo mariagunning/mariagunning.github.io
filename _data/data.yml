@@ -61,20 +61,20 @@ publications:
     papers:
       - title: To My MOm
         link: "#"
-        details: |
+        #details: |
             Talk about the mother here
 
       - title: Maria liked this: Family vs Career as a women
         link: "#"
         authors: Lina G. 
-        details: |
+        #details: |
             Talk about giving up
 
       - title: Maria liked this: Mentor Post
         link: "#"
         authors: Miss Mentor
         #conference: "Comm. ACM 4 (1961), 51–55"
-        details: |
+        #details: |
             Mentor goes off
         
 experiences:
@@ -124,9 +124,9 @@ projects:
 
 skills:
     title: Skills &amp; Proficiency
-      - name: Python
-        details: |
-         - Endoreded by: Bryan, Maz, ...
+      #- name: Python
+       # details: |
+       #  - Endoreded by: Bryan, Maz, ...
          
     toolset:
       - name: Python
