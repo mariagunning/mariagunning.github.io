@@ -84,10 +84,10 @@ publications:
         authors: Maria Gunning
         conference: I learned a lot from my mom. 
         
-      - title: To My Mom
+      - title: Maria Liked this
         link: "#"
-        authors: Maria Gunning
-        conference: I learned a lot from my mom. 
+        authors: Miss Mentor
+        conference: Maria has made a lot of improvements  
 
 projects:
     title: Annoymous Feedback
@@ -118,9 +118,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        details: |
-         - Endoreded by: Bryan, Maz, ...
+      - name: Python - Endorsed by: Bryan
+        level: 98%
+
       - name: Communication
         level: 50%
 
@@ -136,5 +136,5 @@ skills:
       - name: Emotional Intelligence
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
