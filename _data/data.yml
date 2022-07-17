@@ -57,24 +57,22 @@ education:
 publications:
     title: Activity
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Check out Maria's Activity Here!
     papers:
-      - title: The Art of Computer Programming
+      - title: To My Mom
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Maria Gunning
+        conference: "blah blah"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Maria liked this: Family vs. Career
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Koza, J.R.
+        conference: "..."
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Maria liked this: Great Job...
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Miss Mentor
+        conference: "blah blah"
         
 experiences:
     - role: Team Lead
@@ -125,7 +123,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python - Endoreded by: Bryan, Maz, ...
         details: |
          - Endoreded by: Bryan, Maz, ...
       - name: Communication
