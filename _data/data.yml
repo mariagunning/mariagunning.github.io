@@ -57,10 +57,11 @@ education:
 publications:
     title: Activity
     intro: |
-        Check out Maria's Activity here!
+     Check out Maria's Activity here!
     papers:
       - title: "To My Mom"
         link: "#"
+        authors: Maria Gunning
         #details: |
             #Talk about the mother here
 
@@ -123,11 +124,7 @@ projects:
         tagline: "...."
 
 skills:
-    title: Skills &amp; Proficiency
-      #- name: Python
-       # details: |
-       #  - Endoreded by: Bryan, Maz, ...
-         
+    title: Skills &amp; Proficiency        
     toolset:
       - name: Python - Endorsed by: Bryan, Sehar
         level: 98%
