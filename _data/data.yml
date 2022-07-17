@@ -59,28 +59,28 @@ publications:
     intro: |
         Check out Maria's Activity here!
     papers:
-      - title: To My MOm
+      - title: "To My Mom"
         link: "#"
         #details: |
-            Talk about the mother here
+            #Talk about the mother here
 
-      - title: Maria liked this: Family vs Career as a women
+      - title: "Maria liked this: Family vs Career as a women"
         link: "#"
         authors: Lina G. 
         #details: |
-            Talk about giving up
+            #Talk about giving up
 
-      - title: Maria liked this: Mentor Post
+      - title: "Maria liked this: Mentor Post"
         link: "#"
         authors: Miss Mentor
         #conference: "Comm. ACM 4 (1961), 51–55"
         #details: |
-            Mentor goes off
+            #Mentor goes off
         
 experiences:
     - role: Team Lead
       time: 2022 - Present
-      company: MGT-150 L
+      company: MGT-150 Management in Technology
       details: |
         Lead a team of 6 for the quarter to complete assignments and task effiecntly and on time. 
         Great at commication skills and blah blah blah.
@@ -129,9 +129,8 @@ skills:
        #  - Endoreded by: Bryan, Maz, ...
          
     toolset:
-      - name: Python
-        details: |
-         - Endoreded by: Bryan, Maz, ...
+      - name: Python - Endorsed by: Bryan, Sehar
+        level: 98%
 
       - name: Communication
         level: 50%
