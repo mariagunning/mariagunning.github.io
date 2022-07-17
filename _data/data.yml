@@ -57,31 +57,29 @@ education:
 publications:
     title: Activity
     intro: |
-     Check out Maria's Activity here!
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: "To My Mom"
+      - title: The Art of Computer Programming
         link: "#"
-        authors: Maria Gunning
-        #details: |
-            #Talk about the mother here
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: "Maria liked this: Family vs Career as a women"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
-        authors: Lina G. 
-        #details: |
-            #Talk about giving up
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Maria liked this: Mentor Post"
+      - title: A syntax directed compiler for Algol 60
         link: "#"
-        authors: Miss Mentor
-        #conference: "Comm. ACM 4 (1961), 51–55"
-        #details: |
-            #Mentor goes off
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
         
 experiences:
     - role: Team Lead
       time: 2022 - Present
-      company: MGT-150 Management in Technology
+      company: MGT-150 L
       details: |
         Lead a team of 6 for the quarter to complete assignments and task effiecntly and on time. 
         Great at commication skills and blah blah blah.
@@ -124,11 +122,12 @@ projects:
         tagline: "...."
 
 skills:
-    title: Skills &amp; Proficiency        
-    toolset:
-      - name: Python - Endorsed by: Bryan, Sehar
-        level: 98%
+    title: Skills &amp; Proficiency
 
+    toolset:
+      - name: Python
+        details: |
+         - Endoreded by: Bryan, Maz, ...
       - name: Communication
         level: 50%
 
