@@ -54,30 +54,7 @@ education:
       details: |
        Learned C++, C, and Python through main core classes. Worked in many group settings as the team lead. bjdhfkjadhfa....
           
-publications:
-    title: Activity
-    intro: |
-      Check Maria's Activity here!
-    papers:
-        title: To My Mom
-        link: "#"
-        authors: Maria Gunning
-        conference: I learned a lot from my mom. 
 
-  
-    #- role: Senior Software Engineer
-    #  time: 2014 - 2015
-    #  company: Google, London
-    #  details: |
-    #    Describe your role here lorem ipsum dolor sit amet, consectetuer
-    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-    #    Cum sociis natoque penatibus et magnis dis parturient montes,
-    #    nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    #    pellentesque eu, pretium quis, sem.
-    #      - Bullet point
-    #     - Bullet point
-
-        
 experiences:
     - role: Team Lead
       time: 2022 - Present
@@ -85,7 +62,6 @@ experiences:
       details: |
         Lead a team of 6 for the quarter to complete assignments and task effiecntly and on time. 
         Great at commication skills and blah blah blah.
-     
     #- role: Senior Software Engineer
     #  time: 2014 - 2015
     #  company: Google, London
@@ -97,6 +73,21 @@ experiences:
     #    pellentesque eu, pretium quis, sem.
     #      - Bullet point
     #     - Bullet point
+
+publications:
+    title: Activity
+    intro: |
+      Check Maria's Activity here!
+    papers:
+      - title: To My Mom
+        link: "#"
+        authors: Maria Gunning
+        conference: I learned a lot from my mom. 
+        
+      - title: To My Mom
+        link: "#"
+        authors: Maria Gunning
+        conference: I learned a lot from my mom. 
 
 projects:
     title: Annoymous Feedback
