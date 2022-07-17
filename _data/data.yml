@@ -62,16 +62,8 @@ publications:
       - title: To My Mom
         link: "#"
         authors: Maria Gunning
-        details: |
-            hi
-projects:
-    title: Acitivity
-    intro: >
-      Check Maria's Activity here! 
-    assignments:
-      - title: Maria Liked This: "Family vs Friends"
-        link: "#hook"
-        tagline: "something"
+        conference: I learned a lot from my mom. 
+
   
     #- role: Senior Software Engineer
     #  time: 2014 - 2015
