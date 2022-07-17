@@ -59,25 +59,25 @@ publications:
     intro: |
       Check out Maria's Activity Here!
     papers:
-      - title: To My Mom
+      - title: "To My Mom"
         link: "#"
         authors: Maria Gunning
-        conference: "blah blah"
 
-      - title: Maria liked this: Family vs. Career
+
+      - title: "Maria liked this: Family vs. Career"
         link: "#"
         authors: Koza, J.R.
-        conference: "..."
+    
 
-      - title: Maria liked this: Great Job...
+      - title: "Maria liked this: Great Job..."
         link: "#"
         authors: Miss Mentor
-        conference: "blah blah"
+        
         
 experiences:
     - role: Team Lead
       time: 2022 - Present
-      company: MGT-150 L
+      company: MGT-150 
       details: |
         Lead a team of 6 for the quarter to complete assignments and task effiecntly and on time. 
         Great at commication skills and blah blah blah.
