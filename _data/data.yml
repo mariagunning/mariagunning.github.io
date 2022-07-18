@@ -37,18 +37,19 @@ sidebar:
       - item: Family & Family
         link:
 
-      - item: Reading
+      - item: Happiness 
         link:
 
-      - item: Cooking
+      - item: Reading
         link:
 
 career-profile:
     title: About Me
     summary: |
-     Hello! I am currently a Computer Science student at UC Davis. I am currently seeking a Project Management position. 
+     Hello! I am currently a Computer Science student at UC Davis and seeking a Project Management position. 
      I have experience leading groups and being an active member. I am ready to innovate and have stratigic focus on 
-     enhancing the lives of people through technology!
+     enhancing the lives of people through technology! My Myers-Briggs personality type is an ENTP and I ranked high
+     in Relationship Managment.
 education:
     - degree: BS in Computer Science
       university: University of California, Davis
@@ -92,10 +93,13 @@ publications:
         details: |
          hello
         
-      - title: Maria Liked this
+      - title: Maria liked this: Family vs Career
         link: "#"
         authors: Miss Mentor
-        conference: Maria has made a lot of improvements  
+        conference: Maria has made a lot of improvements
+        details: |
+         hello
+        
 
 projects:
     title: Annoymous Feedback
