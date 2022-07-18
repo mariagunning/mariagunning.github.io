@@ -132,6 +132,8 @@ skills:
     toolset:
       - name: Python
         level: 98%
+        details: |
+         Endorsed by: Bryan, Maz and 2 other people
 
       - name: Communication
         level: 50%
