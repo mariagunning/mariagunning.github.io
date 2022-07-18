@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maria Gunning
-    tagline: Computer Science Student at UC Davis
+    tagline: Computer Science Student at UC Davis 
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,13 +46,16 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-     Hello! I am currently a Computer Science student at UC Davis. I have experience leading groups in and being an active member. 
+     Hello! I am currently a Computer Science student at UC Davis. I am currently seeking a Project Management position. 
+     I have experience leading groups and being an active member. I am ready to innovate and have stratigic focus on 
+     enhancing the lives of people through technology!
 education:
     - degree: BS in Computer Science
       university: University of California, Davis
       time: 2020 - 2022
       details: |
-       Learned C++, C, and Python through main core classes. Worked in many group settings as the team lead. bjdhfkjadhfa....
+       Learned C++, C, and Python through main core classes. Worked in many group settings as the team lead and team member.
+       I have experience doing 
           
 
 experiences:
@@ -60,8 +63,11 @@ experiences:
       time: 2022 - Present
       company: MGT-150 Managemnt in Technology
       details: |
-        Lead a team of 6 for the quarter to complete assignments and task effiecntly and on time. 
-        Great at commication skills and blah blah blah.
+        Learned important management frameworks such as, Conflict Managament, Leadership Styles, and Motivation.
+        Lead a team of 6 multi-major students for an entire quarter to complete assignments and task effiecntly and on time. 
+        
+        
+        
     #- role: Senior Software Engineer
     #  time: 2014 - 2015
     #  company: Google, London
