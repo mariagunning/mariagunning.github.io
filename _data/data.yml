@@ -15,7 +15,7 @@ sidebar:
     email: maguuning@ucdavis.edu
     phone: 707 720 4329
     timezone: America/Cancun Timezone
-    #citizenship:
+    #citizenship: 
     #website: 
     #linkedin:
     #xing: 
@@ -105,18 +105,14 @@ publications:
         authors: Cyrus Aram
         conference: Work Life Balance is B.S.
         details: |
-         
+         Integrating work into my life, instead of trying to find a balance has changed the game! Even if this means a quick 15 meetings when I am on vacation… 
         
 
 projects:
-    title: Annoymous Feedback
+    title: Anonymous Feedback
     intro: >
       An area for people who have worked with Maria to share their insights about working with her. 
     assignments:
-      - title: NotWhoYouTink
-        link: "#hook"
-        tagline: "Took feedback personially..."
-
       - title: CatLady
         link: "#"
         tagline: "Had an amazing time working with her! We shared the similar family history and felt comfotable with her. "
@@ -127,7 +123,7 @@ projects:
 
       - title: Mr. Nice Guy
         link: "#"
-        tagline: "While a nice person, she did most of the group work without consulting us as a group."
+        tagline: "Shes nice but carried out most of the work."
 
       - title: Mariooooo
         link: "#"
