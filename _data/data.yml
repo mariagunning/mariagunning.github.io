@@ -83,6 +83,8 @@ publications:
         link: "#"
         authors: Maria Gunning
         conference: I learned a lot from my mom. 
+        details: |
+         hello
         
       - title: Maria Liked this
         link: "#"
