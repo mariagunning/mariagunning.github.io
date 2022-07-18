@@ -95,10 +95,17 @@ publications:
         
       - title: Maria liked this
         link: "#"
-        authors: Miss Mentor
-        conference: Maria has made a lot of improvements
+        authors: Aimee 
+        conference: 
         details: |
          hello
+         
+      - title: Maria liked this
+        link: "#"
+        authors: Cyrus Aram
+        conference: Work Life Balance is B.S.
+        details: |
+         
         
 
 projects:
