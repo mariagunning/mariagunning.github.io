@@ -114,23 +114,22 @@ projects:
     intro: >
       An area for people who have worked with Maria to share their insights about working with her. 
     assignments:
-      - title: CatLady
+      - title: WallStreetBetz
         link: "#"
         tagline: "Had an amazing time working with her! We shared the similar family history and felt comfotable with her. "
-
-      - title: QuickFeet
+        
+        # Conflict Management
+      - title: BartGoldBurrrr
         link: "#"
         tagline: "Struggled to have difficult conversations with team. This caused the team to be disorganized and work ineffienctly. She was able to improve after asking the team for feedback."
 
-      - title: Mr. Nice Guy
-        link: "#"
-        tagline: "Shes nice but carried out most of the work."
-
-      - title: Mariooooo
+        # Leadership Principles
+      - title: DanielPinkDrink
         link: "#"
         tagline: "She did anything to make the team happy and let the team make most of the decisions. I think she was scared of being told she was a bad leader."
         
-      - title: Billy
+        # team formation 
+      - title: BiznizBaddie
         link: "#"
         tagline: "Maria does a great job encouraging team members. I noticed she prefers doing most of the project work"
 
