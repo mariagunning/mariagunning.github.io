@@ -49,14 +49,14 @@ career-profile:
      Hello! I am currently a Computer Science student at UC Davis and seeking a Project Management position. 
      I have experience leading groups and being an active member. I am ready to innovate and have stratigic focus on 
      enhancing the lives of people through technology! My Myers-Briggs personality type is an ENTP and I ranked high
-     in Relationship Managment.
+     in Relationship Managment for Emotional Intelligence.
 education:
     - degree: BS in Computer Science
       university: University of California, Davis
       time: 2020 - 2022
       details: |
        Learned C++, C, and Python through main core classes. Worked in many group settings as the team lead and team member.
-       I have experience doing 
+      
           
 
 experiences:
@@ -86,28 +86,22 @@ publications:
     intro: |
       Check Maria's Activity here!
     papers:
-      - title: To My Mom
+      - title: Post
         link: "#"
         authors: Maria Gunning
-        conference: I learned a lot from my mom. 
+        conference: To My Mom 
         details: |
          I learned a lot from my mom. I first learned to listen and be quiet since she was loud and itimidating. I was shy then and less now.
          As I grew older, I took that energy had adopted it. If it wasn't for her overwhelming abmount of confidence I would not
          be the woman I am today! Thanks mom for sharing your confidence! 
-        
-      - title: Maria liked this
-        link: "#"
-        authors: Aimee 
-        conference: 
-        details: |
-         hello
          
       - title: Maria liked this
         link: "#"
         authors: Cyrus Aram
         conference: Work Life Balance is B.S.
         details: |
-         Integrating work into my life, instead of trying to find a balance has changed the game! Even if this means a quick 15 meetings when I am on vacation… 
+         Integration has changed the game! Instead of trying to find a work life balance, integrate!
+         I can do 15 quick meetings when I am on vacation and still enjoy a the island breeze with my family!
         
 
 projects:
