@@ -34,22 +34,23 @@ sidebar:
         level: Native
 
     interests:
-      - item: Family & Family
+      - item: Family & Friends
         link:
 
       - item: Happiness 
         link:
 
-      - item: Reading
+      - item: Learning
         link:
 
 career-profile:
     title: About Me
     summary: |
      Hello! I am currently a Computer Science student at UC Davis and seeking a Project Management position. 
-     I have experience leading groups and being an active member. I am ready to innovate and have stratigic focus on 
+     I have experience leading groups and being an active member. I am ready to innovate and have strategic focus on 
      enhancing the lives of people through technology! My Myers-Briggs personality type is an ENTP and I ranked high
-     in Relationship Managment for Emotional Intelligence.
+     in Relationship Management for Emotional Intelligence.
+
 education:
     - degree: BS in Computer Science
       university: University of California, Davis
@@ -64,8 +65,10 @@ experiences:
       time: 2022 - Present
       company: MGT-150 Managemnt in Technology
       details: |
-        Learned important management frameworks such as, Conflict Managament, Leadership Styles, and Motivation.
-        Lead a team of 6 multi-major students for an entire quarter to complete assignments and task effiecntly and on time. 
+       Learned important management frameworks such as Conflict Management, Leadership Styles, and Motivation.
+        Lead a team of 6 multi-major students for an entire quarter to complete assignments and tasks efficiently and on time. 
+
+
         
         
         
@@ -91,9 +94,11 @@ publications:
         authors: Maria Gunning
         conference: To My Mom 
         details: |
-         I learned a lot from my mom. I first learned to listen and be quiet since she was loud and itimidating. I was shy then and less now.
-         As I grew older, I took that energy had adopted it. If it wasn't for her overwhelming abmount of confidence I would not
+         I learned a lot from my mom. I first learned to listen and be quiet since she was loud and intimidating. I was shy then and less so now.
+         As I grew older, I took that energy and adopted it. If it wasn't for her overwhelming amount of confidence I would not
          be the woman I am today! Thanks mom for sharing your confidence! 
+
+
          
       - title: Maria liked this
         link: "#"
